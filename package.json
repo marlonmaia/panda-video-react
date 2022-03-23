@@ -1,6 +1,6 @@
 {
   "name": "react-panda-video",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Marlon Maia <marlonmaia.dev@gmail.com>",
   "main": "dist/index.js",
   "module": "dist/index.js",
