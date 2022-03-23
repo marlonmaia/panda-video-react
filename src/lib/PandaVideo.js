@@ -35,7 +35,7 @@ export default class PandaVideo extends React.Component {
   render() {
     if(this.state.url){
       return (
-        <div style={{position:"relative"}}>
+        <div style={{position:"relative", paddingTop:"56.25%"}}>
           <iframe
             id="panda-player" 
             src={this.state.url} 
