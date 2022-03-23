@@ -1,4 +1,4 @@
-# Panda Video React
+# React Panda Video Component
 
 This is a lightweight React package that uses panda's video url to generate the React Component compatible embed. It provides the ability to create the player to watch videos hosted on panda through a nice React interface.
 
